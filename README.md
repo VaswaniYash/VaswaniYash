@@ -1,10 +1,14 @@
-# Hi there! 👾 I'm YASH VASWANI
+<h1 align="center">Hi there! 👾 I'm YASH VASWANI</h1>
 
-<h2 align="center">Software Development Engineer</h2>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&pause=1000&color=38B2AC&center=true&vCenter=true&width=600&lines=Software+Development+Engineer;Full-Stack+Web+Developer;AWS+%26+Cloud+Enthusiast" alt="Typing SVG" />
+  </a>
+</p>
 
 ---
 
-### 👋 Welcome to My Code!
+### 👋 Welcome to My Code & Cloud Hub!
 
 I'm a **Full-Stack Engineer** and a recent **BCA graduate** focused on bridging the gap between responsive frontend design and robust backend business logic. I specialize in building **scalable web applications** using the **MERN stack**, relational databases, and architecting cloud-ready deployment pipelines.
 
@@ -66,6 +70,19 @@ Here's a glimpse into my activity and contributions on GitHub.
   <img src="https://github-readme-stats.vercel.app/api?username=VaswaniYash&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Yash's GitHub Stats" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=VaswaniYash&theme=tokyonight&hide_border=true&background=0D1117" alt="Yash's GitHub Streak" width="48%" />
 </p>
+
+### 📅 Contribution Calendar
+
+<p align="center">
+  <img src="https://ghchart.rshah.org/38B2AC/VaswaniYash" alt="Yash's Contribution Chart" width="100%" />
+</p>
+
+### ⚡ Recent Activity
+
+1. 🚀 Pushed full-stack architecture updates to **`VaswaniYash/Patron-AI`**
+2. 🛠️ Integrated OpenWeather API and updated backend logic in **`VaswaniYash/java-weather-dashboard`**
+3. 💡 Authored technical documentation for **`VaswaniYash/AI-Content-Studio`**
+4. 🏗️ Restructured repositories and modernized tech stack for professional deployment
 
 ---
 
