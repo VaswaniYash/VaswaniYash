@@ -8,7 +8,7 @@
 
 ---
 
-### 👋 Welcome to My Code & Cloud Hub!
+### 👋 Welcome to My Full-Stack Code Hub!
 
 I'm a **Full-Stack Engineer** and a recent **BCA graduate** focused on bridging the gap between responsive frontend design and robust backend business logic. I specialize in building **scalable web applications** using the **MERN stack**, relational databases, and architecting cloud-ready deployment pipelines.
 
